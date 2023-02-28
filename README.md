@@ -9,3 +9,5 @@
 [LinkedIn Profile Optimization](https://resumeworded.com/linkedin-review/optimize-linkedin-profile)
 
 [Galactic Linkedin profile guide](https://github.com/GuidoPenta/galactic-linkedin-profile-guide)
+
+[Galactic CV guide](https://github.com/GuidoPenta/galactic-CV-guide)
