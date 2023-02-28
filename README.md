@@ -7,4 +7,5 @@
 
 ## Profile / CV Optimization
 [LinkedIn Profile Optimization](https://resumeworded.com/linkedin-review/optimize-linkedin-profile)
+
 [Galactic Linkedin profile guide](https://github.com/GuidoPenta/galactic-linkedin-profile-guide)
